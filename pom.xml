@@ -145,4 +145,11 @@
         </plugins>
     </build>
 
+	<developers>
+		<developer>
+			<name>Jefferson Lima de Araujo</name>
+			<email>jefferson.limaaraujo@gmail.com</email>
+		</developer>
+	</developers>
+
 </project>
